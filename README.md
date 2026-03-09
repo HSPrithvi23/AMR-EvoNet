@@ -386,11 +386,6 @@ This pipeline directly supports:
 MSc Bioinformatics | JSS Academy of Higher Education and Research, Mysuru
 - GitHub: [@HSPrithvi23](https://github.com/HSPrithvi23)
 
-## License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
 **⭐ If this project helped you, please give it a star!**
 
-*Built with Python 🐍 | Snakemake 🐍 | Streamlit 🎈 | One Health ❤️*
-
-</div>
+*Built with Python | Snakemake | Streamlit | One Health *
