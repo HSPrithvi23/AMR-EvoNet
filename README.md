@@ -1,5 +1,5 @@
 # AMR-EvoNet
-One Health AMR Gene Flow Surveillance Platform — Human-Animal-Environment Interface
+One Health AMR Gene Flow Surveillance Platform - Human-Animal-Environment Interface
 
 # AMR-EvoNet: One Health AMR Gene Flow Surveillance Pipeline - First computational platform tracking antibiotic resistance gene flow across the Human-Animal-Environment interface using network modeling, evolutionary analysis and ML-based spillover risk scoring under a One Health framework.
 
