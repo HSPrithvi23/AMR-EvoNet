@@ -1,0 +1,57 @@
+Antibiotic,Resistance Rate,Organism,Interface
+vancomycin,1.0,A.baumannii,Environment
+cefuroxime,1.0,A.baumannii,Environment
+piperacillin,1.0,A.baumannii,Environment
+penicillin,1.0,A.baumannii,Environment
+nitrofurantoin,1.0,A.baumannii,Environment
+netilmicin,1.0,A.baumannii,Environment
+neomycin,1.0,A.baumannii,Environment
+sulfonamides,1.0,A.baumannii,Environment
+kanamycin,1.0,A.baumannii,Environment
+fosfomycin,1.0,A.baumannii,Environment
+erythromycin,1.0,A.baumannii,Environment
+ertapenem,1.0,A.baumannii,Environment
+ticarcillin,1.0,A.baumannii,Environment
+spectinomycin,1.0,A.baumannii,Environment
+chloramphenicol,1.0,A.baumannii,Environment
+cephalothin,1.0,A.baumannii,Environment
+rifampin,1.0,A.baumannii,Environment
+carbenicillin,1.0,A.baumannii,Environment
+cefoxitin,1.0,A.baumannii,Environment
+cefotetan,1.0,A.baumannii,Environment
+ampicillin,1.0,A.baumannii,Environment
+azidothymidine,1.0,A.baumannii,Environment
+trimethoprim,1.0,A.baumannii,Environment
+aztreonam,1.0,A.baumannii,Environment
+cefazolin,0.99375,A.baumannii,Environment
+ticarcillin/clavulanic acid,0.9714285714285714,A.baumannii,Environment
+piperacillin/tazobactam,0.967741935483871,A.baumannii,Environment
+cefotaxime,0.9551282051282052,A.baumannii,Environment
+streptomycin,0.9523809523809523,A.baumannii,Environment
+ceftriaxone,0.9419953596287703,A.baumannii,Environment
+cefepime,0.905511811023622,A.baumannii,Environment
+ciprofloxacin,0.8785046728971962,A.baumannii,Environment
+nalidixic acid,0.875,A.baumannii,Environment
+amoxicillin/clavulanic acid,0.8571428571428571,A.baumannii,Environment
+ceftazidime,0.8540540540540541,A.baumannii,Environment
+trimethoprim/sulfamethoxazole,0.8463541666666666,A.baumannii,Environment
+gentamicin,0.8365591397849462,A.baumannii,Environment
+levofloxacin,0.8026315789473685,A.baumannii,Environment
+timentin,0.8,A.baumannii,Environment
+tetracycline,0.7407407407407407,A.baumannii,Environment
+tobramycin,0.6765432098765433,A.baumannii,Environment
+moxifloxacin,0.6551724137931034,A.baumannii,Environment
+meropenem,0.6210526315789474,A.baumannii,Environment
+amikacin,0.5861244019138756,A.baumannii,Environment
+ampicillin/sulbactam,0.5266272189349113,A.baumannii,Environment
+imipenem,0.5080459770114942,A.baumannii,Environment
+azithromycin,0.5,A.baumannii,Environment
+doxycycline,0.4827586206896552,A.baumannii,Environment
+doripenem,0.27419354838709675,A.baumannii,Environment
+carbapenem,0.2601817569841804,A.baumannii,Environment
+minocycline,0.2413793103448276,A.baumannii,Environment
+polymyxin B,0.13333333333333333,A.baumannii,Environment
+colistin,0.036585365853658534,A.baumannii,Environment
+sulfisoxazole,0.0,A.baumannii,Environment
+tigecycline,0.0,A.baumannii,Environment
+cefpodoxime,0.0,A.baumannii,Environment

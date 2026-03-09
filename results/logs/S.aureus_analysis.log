@@ -1,0 +1,7 @@
+F:\AMR_new_project\per_organism_analysis.py:27: DeprecationWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  resist_rate = df_resist.groupby('Antibiotic').apply(
+Processing: S.aureus (Animal)
+Records for S.aureus: 10000
+Saved: F:/AMR_new_project/results/S.aureus_resistance_profile.csv
+Saved: F:/AMR_new_project/results/S.aureus_resistance_plot.png
+Done: S.aureus

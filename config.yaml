@@ -1,0 +1,34 @@
+# AMR-EvoNet Pipeline Configuration
+data_dir: "F:/AMR_new_project"
+results_dir: "F:/AMR_new_project/results"
+python: "C:/Program Files/Python312/python.exe"
+scripts_dir: "F:/AMR_new_project"
+
+organisms:
+  - E.coli
+  - S.enterica
+  - S.aureus
+  - A.baumannii
+  - P.aeruginosa
+
+input_files:
+  E.coli: "E.coli_BVBRC_genome_amr.csv"
+  S.enterica: "S.enterics_BVBRC_genome_amr.csv"
+  S.aureus: "Staphylococcus aureus BVBRC_genome_amr.csv"
+  A.baumannii: "Acinetobacter baumannii BVBRC_genome_amr.csv"
+  P.aeruginosa: "Pseudomonas aeruginosa BVBRC_genome_amr.csv"
+
+interfaces:
+  E.coli: "Human"
+  S.enterica: "Human"
+  S.aureus: "Animal"
+  A.baumannii: "Environment"
+  P.aeruginosa: "Environment"
+
+parameters:
+  min_co_resistance: 50
+  resistance_threshold: 0.3
+  n_estimators: 100
+  test_size: 0.2
+  random_state: 42
+  top_antibiotics: 20

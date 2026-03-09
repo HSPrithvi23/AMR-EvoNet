@@ -1,0 +1,70 @@
+Antibiotic,Resistance Rate,Organism,Interface
+tylosin,1.0,S.enterica,Human
+aztreonam,1.0,S.enterica,Human
+penicillin,1.0,S.enterica,Human
+clindamycin,1.0,S.enterica,Human
+tiamulin,1.0,S.enterica,Human
+tilmicosin,1.0,S.enterica,Human
+oxytetracycline,1.0,S.enterica,Human
+chlortetracycline,0.8333333333333334,S.enterica,Human
+ampicillin/sulbactam,0.7647058823529411,S.enterica,Human
+cefazolin,0.7619047619047619,S.enterica,Human
+sulphadimethoxine,0.75,S.enterica,Human
+sulfonamides,0.6346153846153846,S.enterica,Human
+pefloxacin,0.4878048780487805,S.enterica,Human
+ampicillin,0.3935309973045822,S.enterica,Human
+tetracycline,0.37427745664739887,S.enterica,Human
+sulfisoxazole,0.35071090047393366,S.enterica,Human
+cephalothin,0.3333333333333333,S.enterica,Human
+sulfamethoxazole,0.3333333333333333,S.enterica,Human
+streptomycin,0.26916524701873934,S.enterica,Human
+nalidixic acid,0.24178403755868544,S.enterica,Human
+temocillin,0.2222222222222222,S.enterica,Human
+chloramphenicol,0.21670702179176757,S.enterica,Human
+ceftiofur,0.2015810276679842,S.enterica,Human
+trimethoprim/sulfamethoxazole,0.18858560794044665,S.enterica,Human
+ciprofloxacin,0.16995447647951442,S.enterica,Human
+amoxicillin/clavulanic acid,0.16872427983539096,S.enterica,Human
+cefoxitin,0.15053763440860216,S.enterica,Human
+piperacillin/tazobactam,0.14285714285714285,S.enterica,Human
+spectinomycin,0.1423841059602649,S.enterica,Human
+ceftriaxone,0.12759643916913946,S.enterica,Human
+colomycin,0.125,S.enterica,Human
+sulfamethoxazole/trimethoprim,0.125,S.enterica,Human
+sulfathiazole,0.10810810810810811,S.enterica,Human
+trimethoprim,0.1046831955922865,S.enterica,Human
+neomycin,0.1,S.enterica,Human
+cefotaxime,0.08943089430894309,S.enterica,Human
+tobramycin,0.08695652173913043,S.enterica,Human
+gentamicin,0.0858433734939759,S.enterica,Human
+kanamycin,0.05675675675675676,S.enterica,Human
+ofloxacin,0.05,S.enterica,Human
+colistin,0.046511627906976744,S.enterica,Human
+azithromycin,0.036585365853658534,S.enterica,Human
+netilmicin,0.02857142857142857,S.enterica,Human
+ceftazidime,0.013513513513513514,S.enterica,Human
+ticarcillin/clavulanic acid,0.0,S.enterica,Human
+tigecycline,0.0,S.enterica,Human
+amikacin,0.0,S.enterica,Human
+nitrofurantoin,0.0,S.enterica,Human
+meropenem,0.0,S.enterica,Human
+apramycin,0.0,S.enterica,Human
+carbenicillin,0.0,S.enterica,Human
+cefepime,0.0,S.enterica,Human
+cefixime,0.0,S.enterica,Human
+cefotaxime/clavulanic acid,0.0,S.enterica,Human
+cefpirome,0.0,S.enterica,Human
+cefpodoxime,0.0,S.enterica,Human
+ceftazidime/avibactam,0.0,S.enterica,Human
+ceftazidime/clavulanic acid,0.0,S.enterica,Human
+ceftolozane/tazobactam,0.0,S.enterica,Human
+cephalosporin,0.0,S.enterica,Human
+doripenem,0.0,S.enterica,Human
+doxycycline,0.0,S.enterica,Human
+enrofloxacin,0.0,S.enterica,Human
+ertapenem,0.0,S.enterica,Human
+furazolidone,0.0,S.enterica,Human
+gatifloxacin,0.0,S.enterica,Human
+imipenem,0.0,S.enterica,Human
+levofloxacin,0.0,S.enterica,Human
+florfenicol,0.0,S.enterica,Human

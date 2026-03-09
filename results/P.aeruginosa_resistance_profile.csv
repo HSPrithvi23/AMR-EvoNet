@@ -1,0 +1,53 @@
+Antibiotic,Resistance Rate,Organism,Interface
+clindamycin,1.0,P.aeruginosa,Environment
+chloramphenicol,1.0,P.aeruginosa,Environment
+streptomycin,1.0,P.aeruginosa,Environment
+penicillin,1.0,P.aeruginosa,Environment
+oxacillin,1.0,P.aeruginosa,Environment
+nitrofurantoin,1.0,P.aeruginosa,Environment
+neomycin,1.0,P.aeruginosa,Environment
+nalidixic acid,1.0,P.aeruginosa,Environment
+moxifloxacin,1.0,P.aeruginosa,Environment
+kanamycin,1.0,P.aeruginosa,Environment
+ticarcillin/clavulanic acid,1.0,P.aeruginosa,Environment
+erythromycin,1.0,P.aeruginosa,Environment
+amoxicillin,1.0,P.aeruginosa,Environment
+tigecycline,1.0,P.aeruginosa,Environment
+rifampin,1.0,P.aeruginosa,Environment
+clarithromycin,1.0,P.aeruginosa,Environment
+spectinomycin,1.0,P.aeruginosa,Environment
+cefamandole,1.0,P.aeruginosa,Environment
+amoxicillin/clavulanic acid,1.0,P.aeruginosa,Environment
+ampicillin,1.0,P.aeruginosa,Environment
+ampicillin/sulbactam,1.0,P.aeruginosa,Environment
+cefoxitin,1.0,P.aeruginosa,Environment
+cefotaxime,1.0,P.aeruginosa,Environment
+beta-lactam,1.0,P.aeruginosa,Environment
+cefazolin,1.0,P.aeruginosa,Environment
+trimethoprim/sulfamethoxazole,0.9767441860465116,P.aeruginosa,Environment
+tetracycline,0.9736842105263158,P.aeruginosa,Environment
+doxycycline,0.972972972972973,P.aeruginosa,Environment
+carbenicillin,0.8867924528301887,P.aeruginosa,Environment
+ceftriaxone,0.7777777777777778,P.aeruginosa,Environment
+doripenem,0.75,P.aeruginosa,Environment
+ceftolozane/tazobactam,0.5803571428571429,P.aeruginosa,Environment
+meropenem,0.5606060606060606,P.aeruginosa,Environment
+aztreonam,0.5526315789473685,P.aeruginosa,Environment
+azithromycin,0.5454545454545454,P.aeruginosa,Environment
+ciprofloxacin,0.5426356589147286,P.aeruginosa,Environment
+cefepime,0.5304347826086957,P.aeruginosa,Environment
+imipenem,0.48847926267281105,P.aeruginosa,Environment
+ceftazidime/avibactam,0.4830508474576271,P.aeruginosa,Environment
+levofloxacin,0.47104596453130654,P.aeruginosa,Environment
+piperacillin/tazobactam,0.45,P.aeruginosa,Environment
+ceftazidime,0.44786729857819907,P.aeruginosa,Environment
+tobramycin,0.291005291005291,P.aeruginosa,Environment
+gentamicin,0.26153846153846155,P.aeruginosa,Environment
+amikacin,0.2,P.aeruginosa,Environment
+piperacillin,0.2,P.aeruginosa,Environment
+fosfomycin,0.07692307692307693,P.aeruginosa,Environment
+colistin,0.02214022140221402,P.aeruginosa,Environment
+cefiderocol,0.021505376344086023,P.aeruginosa,Environment
+polymyxin B,0.0,P.aeruginosa,Environment
+norfloxacin,0.0,P.aeruginosa,Environment
+ertapenem,0.0,P.aeruginosa,Environment

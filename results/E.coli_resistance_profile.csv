@@ -1,0 +1,65 @@
+Antibiotic,Resistance Rate,Organism,Interface
+vancomycin,1.0,E.coli,Human
+cefotaxime/clavulanic acid,1.0,E.coli,Human
+rifampin,1.0,E.coli,Human
+polymyxin B,1.0,E.coli,Human
+piperacillin,1.0,E.coli,Human
+penicillin,1.0,E.coli,Human
+beta-lactam,1.0,E.coli,Human
+oxacillin,1.0,E.coli,Human
+lincomycin,1.0,E.coli,Human
+linezolid,1.0,E.coli,Human
+netilmicin,1.0,E.coli,Human
+kanamycin,0.9090909090909091,E.coli,Human
+carbenicillin,0.875,E.coli,Human
+cefazolin,0.8372093023255814,E.coli,Human
+sulfisoxazole,0.8125,E.coli,Human
+cefpodoxime_clavulanic_acid,0.7857142857142857,E.coli,Human
+levofloxacin,0.7692307692307693,E.coli,Human
+cefpodoxime,0.7142857142857143,E.coli,Human
+cephalothin,0.7090909090909091,E.coli,Human
+ofloxacin,0.6666666666666666,E.coli,Human
+oxytetracycline,0.6666666666666666,E.coli,Human
+tetracycline,0.6571428571428571,E.coli,Human
+doxycycline,0.6521739130434783,E.coli,Human
+moxifloxacin,0.6153846153846154,E.coli,Human
+streptomycin,0.6111111111111112,E.coli,Human
+erythromycin,0.6,E.coli,Human
+amoxicillin,0.5989304812834224,E.coli,Human
+ampicillin,0.5555555555555556,E.coli,Human
+sulfamethoxazole,0.5454545454545454,E.coli,Human
+ceftriaxone,0.45528455284552843,E.coli,Human
+trimethoprim,0.44881889763779526,E.coli,Human
+ampicillin/sulbactam,0.43243243243243246,E.coli,Human
+ceftiofur,0.3684210526315789,E.coli,Human
+cefoxitin,0.35,E.coli,Human
+chloramphenicol,0.34210526315789475,E.coli,Human
+sulfamethoxazole/trimethoprim,0.3333333333333333,E.coli,Human
+trimethoprim/sulfamethoxazole,0.3125,E.coli,Human
+amoxicillin/clavulanic acid,0.3051948051948052,E.coli,Human
+nalidixic acid,0.2962962962962963,E.coli,Human
+ciprofloxacin,0.24076433121019108,E.coli,Human
+cefotaxime,0.20783132530120482,E.coli,Human
+ertapenem,0.20388349514563106,E.coli,Human
+aztreonam,0.19727891156462585,E.coli,Human
+cefalotin,0.19444444444444445,E.coli,Human
+tobramycin,0.17222222222222222,E.coli,Human
+colistin,0.16666666666666666,E.coli,Human
+cefepime,0.15436241610738255,E.coli,Human
+ceftazidime,0.14627994955863807,E.coli,Human
+norfloxacin,0.14583333333333334,E.coli,Human
+cefuroxime,0.14476190476190476,E.coli,Human
+minocycline,0.125,E.coli,Human
+nitrofurantoin,0.11764705882352941,E.coli,Human
+gentamicin,0.11009174311926606,E.coli,Human
+imipenem,0.08888888888888889,E.coli,Human
+piperacillin/tazobactam,0.0698005698005698,E.coli,Human
+azithromycin,0.046875,E.coli,Human
+meropenem,0.019817073170731708,E.coli,Human
+amikacin,0.01171875,E.coli,Human
+tigecycline,0.004705882352941176,E.coli,Human
+doripenem,0.0,E.coli,Human
+ceftolozane/tazobactam,0.0,E.coli,Human
+ceftazidime/avibactam,0.0,E.coli,Human
+cefotetan,0.0,E.coli,Human
+fosfomycin,0.0,E.coli,Human
